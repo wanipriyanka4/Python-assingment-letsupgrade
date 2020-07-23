@@ -1,0 +1,44 @@
+Day2
+
+* Basic python syntax-
+1.black slash- we use continuation.
+2. Triple quote - multiple advantage
+3. String inside the quote
+4. Escape sequence of string-
+5.  Formatted output
+* Python variable and assignment-
+1.variable- variable mean linking of the data to a name.
+2. Python assignment statement-
+* Arithmetic operators - 7types
+A. ** - simple of power
+B. / - division   
+        Int/int = float
+C.+ - addition
+D.- substction
+E //- floor division.  Lowest value.
+F %- moduls
+* Comparison operator-
+‌a.==
+‌b.greater than
+       c.less than
+       d.greater than equal to
+       e.less than equal to
+* Assignment operator-
+ A.= - a=b , b is assigned to b
+B. +=  
+C.-=
+D. *=
+E. /=
+F. **=
+* Bitwise operator -
+a. OR  
+b.AND
+c.XOR
+d.binary compliment
+*Membership operator-
+A. In
+B.Not In
+*Operator precedence-
+a. Operator in the same box have the same  precednce.
+b. Operator in the same box group left to right.
+C. Exponential which group's from right to left.
