@@ -1,0 +1,38 @@
+Que1 .sum of n numbers with help while loop
+
+
+num = 18
+
+if num < 0:
+
+print("enter a positive no")
+
+else:
+
+sum = 0
+
+while(num  > 0 ):
+sum += num
+num -= 1
+
+print("the sum is", num)
+
+
+
+Que2. Take a integer and find  prime or not
+
+
+num = 13
+
+if num >1:
+
+for i in range(2, num//2):
+
+if(num % i)==0:
+print(num,"is not prime no")
+
+break
+else:
+print(num, "is prime no")
+else:
+print(num, "is not prime no")
